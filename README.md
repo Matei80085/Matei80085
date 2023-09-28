@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Matei80085
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to Matei80085's GitHub Profile! 👋
 
-<!---
-Matei80085/Matei80085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🎓 Second-year Computing Science student
+- 🎯 Interested in: Fill in what you're interested in here, e.g., Machine Learning, Web Development, etc.
+- 🌱 Currently Learning: Java and other programming languages
+- 💞️ Looking to collaborate on: Open to collaborating on various projects
+- 📫 How to reach me: [Email](mailto:your_email_here@example.com)
+
+## Current Projects 🚀
+- Project 1: Brief description here
+- Project 2: Brief description here
+
+## Skills and Technologies 💻
+- Java
+- Add other languages or frameworks you're familiar with
+
+## Connect With Me 🌐
+- [LinkedIn](your LinkedIn URL here)
+- [Twitter](your Twitter URL here)
+
+### Thanks for visiting my profile!
