@@ -13,7 +13,8 @@
 
 ## Skills and Technologies 💻
 - Java
-- Add other languages or frameworks you're familiar with
+- Python
+- C/C++
 
 ## Connect With Me 🌐
 - [LinkedIn](your LinkedIn URL here)
